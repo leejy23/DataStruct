@@ -1,0 +1,5 @@
+﻿  HTML.c
+C:\Users\home\Documents\재영\프로그래밍 공부\2학년1학기 파일처리론\11_22_datastruct\HTML.c(79,38): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\home\Documents\재영\프로그래밍 공부\2학년1학기 파일처리론\11_22_datastruct\HTML.c(87,23): warning C4013: 'strchr'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\home\Documents\재영\프로그래밍 공부\2학년1학기 파일처리론\11_22_datastruct\HTML.c(87,1): warning C4047: '초기화 중': 'char *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+  11_22_datastruct.vcxproj -> C:\Users\home\Documents\재영\프로그래밍 공부\2학년1학기 파일처리론\11_22_datastruct\x64\Debug\11_22_datastruct.exe
